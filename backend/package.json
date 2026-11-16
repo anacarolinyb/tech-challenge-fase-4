@@ -1,0 +1,17 @@
+{
+  "name": "blog-escolar-api",
+  "version": "1.0.0",
+  "description": "API REST do Blog Escolar (Tech Challenge Fase 4) - posts, professores, alunos, comentários e autenticação JWT",
+  "main": "src/server.js",
+  "private": true,
+  "license": "MIT",
+  "engines": {
+    "node": ">=22.13"
+  },
+  "scripts": {
+    "start": "node --env-file-if-exists=.env src/server.js",
+    "dev": "node --env-file-if-exists=.env --watch src/server.js",
+    "seed": "node --env-file-if-exists=.env src/db/reset.js",
+    "test": "node --test"
+  }
+}
