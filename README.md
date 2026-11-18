@@ -327,7 +327,7 @@ O workflow `.github/workflows/ci.yml` roda os testes da API automaticamente a ca
 - [docs/GITHUB.md](docs/GITHUB.md): passo a passo para publicar este repositório no GitHub
 - [docs/ROTEIRO_VIDEO.md](docs/ROTEIRO_VIDEO.md): roteiro da apresentação em vídeo (até 15 min)
 
-**Vídeo da apresentação:** _adicionar o link após a gravação_
+**Vídeo da apresentação: https://drive.google.com/file/d/15B9l_SBjtwR-O7RC5axzpXzatf4oxChl/view?usp=sharing** 
 
 ---
 
@@ -335,8 +335,7 @@ O workflow `.github/workflows/ci.yml` roda os testes da API automaticamente a ca
 
 | Nome | RM |
 |------|----|
-| Ana Caroliny Bernardes | |
-| | |
-| | |
+| Ana Caroliny Bernardes | 370436 |
+| Guilherme Henrique de Lima | 372562 |
 
 FIAP · Pós Tech · Fase 4 · Tech Challenge

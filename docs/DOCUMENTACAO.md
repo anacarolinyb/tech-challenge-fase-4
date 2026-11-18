@@ -36,7 +36,7 @@ A comunicação é feita por HTTP/JSON. Depois do login, o app envia o token no 
 **Organização em camadas**
 
 ```
-screens  →  hooks  →  services  →  api.ts (fetch)  →  API
+screens  →  hooks  →  services  →  api.ts (fetch)  →  API 
    │                      ▲
    └──── AuthContext ─────┘
 ```
